@@ -1,22 +1,21 @@
 ---
 layout: page
-title: A Software Platform for Manipulating the Camera Imaging Pipeline
-description: Project Site of ECCV Paper "A Software Platform for Manipulating the Camera Imaging Pipeline"
+title: Improving Color Reproduction Accuracy on Cameras
+description: Project Site of CVPR Paper "Improving Color Reproduction Accuracy on Cameras"
 author: Hakki Can Karaimer
 ---
-![](./image/Fig_02_pipeline_figure_final.png)
+![](./image/teaser_v6.png)
 
 ### Abstract ###
- There are a number of processing steps applied onboard a digital camera that collectively make up the camera imaging pipeline.   Unfortunately, the imaging pipeline is typically embedded in a camera's hardware making it difficult for researchers working on individual components to do so within the proper context of the full pipeline.  This not only hinders research, it makes evaluating the effects from modifying an individual pipeline component on the final camera output challenging, if not impossible.  This paper presents a new software platform that allows easy access to each stage of the camera imaging pipeline.   The platform allows modification of the parameters for individual components as well as the ability to access and manipulate the intermediate images as they pass through different stages.  We detail our platform design and demonstrate its usefulness on a number of examples.
+ One of the key operations performed on a digital camera is to map the sensor-specific color space to a standard perceptual color space.   This procedure involves the application of a white-balance correction followed by a color space transform.  The current approach for this colorimetric mapping is based on an interpolation of pre-calibrated color space transforms computed for two fixed illuminations (i.e., two white-balance settings).  Images captured under different illuminations are subject to less color accuracy due to the use of this interpolation process.   In this paper, we discuss the limitations of the current colorimetric mapping approach and propose two methods that are able to improve color accuracy.  We evaluate our approach on seven different cameras and show improvements of up to  30\% (DSLR cameras) and 59\% (mobile phone cameras) in terms of color reproduction error.
 
 #### Publications: ####
-* Karaimer H.C., Brown M.S. (2016) "A Software Platform for Manipulating the Camera Imaging Pipeline", *European Conference on Computer Vision* (**ECCV`16**), Oct 2016 [[pdf]](./paper/Karaimer_Brown_ECCV16.pdf) [[bibtex]](./bib/karaimer_brown_ECCV16.bib) 
+* Karaimer H.C., Brown M.S. (2018) "Improving Color Reproduction Accuracy on Cameras", *IEEE Computer Vision and Pattern Recognition* (**CVPR`18**), June 2018 [[pdf]](./paper/camera_color_cvpr2018.pdf) [[bibtex]](./bib/camera_color_cvpr2018.bib) 
 
-## Code and Documentation##
+## Code and Data##
 
-Please read the documentation [here](https://docs.google.com/document/d/1WzeZ-9U4aTuwFpcX-8GgAy0wT9ERF41ltjr-jJ-NMCo/edit?usp=sharing),   
-Please download the code [here](https://github.com/karaimer/camera-pipeline-UI),   
-Please download the DNG SDK [here](https://github.com/karaimer/camera-pipeline-dng-sdk).   
+Please download the code [here](https://github.com/karaimer/camera-color-code),   
+Please download the data [here](https://github.com/karaimer/camera-color-data).   
 
 ## People ##
 [Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer (at) eecs.yorku.ca
