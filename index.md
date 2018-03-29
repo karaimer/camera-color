@@ -14,8 +14,8 @@ author: Hakki Can Karaimer
 
 ## Code and Data##
 
-Please download the code [here](https://github.com/karaimer/camera-color-code),   
-Please download the data [here](https://github.com/karaimer/camera-color-data).   
+Please download the code [here](https://www.dropbox.com/home/improving_color_accuracy_cvpr2018_code_and_data/code),   
+Please download the data [here](https://www.dropbox.com/home/improving_color_accuracy_cvpr2018_code_and_data/data).   
 
 ## People ##
 [Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer (at) eecs.yorku.ca
