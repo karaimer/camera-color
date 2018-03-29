@@ -1,1 +1,1 @@
-# camera-color
+# camera-pipeline
