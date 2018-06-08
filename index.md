@@ -14,7 +14,7 @@ One of the key operations performed on a digital camera is to map the sensor-spe
 
 ## Code and Data##
 
-Please download the code [here](https://www.dropbox.com/sh/zex1x4qxjyclafo/AAAS8mJyKmdqDJtNaRgvkjlma?dl=0),   
+Please download the code [here](https://www.dropbox.com/sh/zex1x4qxjyclafo/AAAS8mJyKmdqDJtNaRgvkjlma?dl=0) and view the readme file [here](https://paper.dropbox.com/doc/READ-ME-08Q4DXAnmX4Mn4RH5bu7j),   
 Please download the data [here](https://www.dropbox.com/sh/21nc5ec8xvzzdcy/AADtBg21bYKCwEh1IXxAugK7a?dl=0).   
 
 ## People ##
