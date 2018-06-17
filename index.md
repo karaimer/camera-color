@@ -12,10 +12,11 @@ One of the key operations performed on a digital camera is to map the sensor-spe
 #### Publications: ####
 * Karaimer H.C., Brown M.S. (2018) "Improving Color Reproduction Accuracy on Cameras", *IEEE Computer Vision and Pattern Recognition* (**CVPR`18**), June 2018 [[pdf]](./paper/Karaimer_Brown_CVPR18.pdf) [[bibtex]](./bib/Karaimer_Brown_CVPR18.bib) 
 
-## Code and Data##
+## Code, Data, and Supplemental Material##
 
 Please download the code [here](https://www.dropbox.com/sh/zex1x4qxjyclafo/AAAS8mJyKmdqDJtNaRgvkjlma?dl=0) and view the readme file [here](https://paper.dropbox.com/doc/READ-ME-08Q4DXAnmX4Mn4RH5bu7j),   
 Please download the data [here](https://www.dropbox.com/sh/21nc5ec8xvzzdcy/AADtBg21bYKCwEh1IXxAugK7a?dl=0).   
+Please download the supplemental material [[pdf]](./paper/improving_color_accuracy_cvpr18_supp_v11.pdf)
 
 ## People ##
 [Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer (at) eecs.yorku.ca
