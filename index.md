@@ -14,7 +14,7 @@ One of the key operations performed on a digital camera is to map the sensor-spe
 
 ## Code, Data, and Supplemental Material##
 
-Please download the code [here](https://www.dropbox.com/sh/zex1x4qxjyclafo/AAAS8mJyKmdqDJtNaRgvkjlma?dl=0) and view the readme file [here](https://paper.dropbox.com/doc/READ-ME-08Q4DXAnmX4Mn4RH5bu7j),   
+Please download the code [here](https://www.dropbox.com/sh/zex1x4qxjyclafo/AAAS8mJyKmdqDJtNaRgvkjlma?dl=0) and view the readme file [here](https://www.dropbox.com/scl/fi/7w0dm88g8y8p4j63goh1q/READ-ME.paper?rlkey=zlj01upfve3xgq5uolv4o5r0y&st=sw4l4q77&dl=0),   
 Please download the data [here](https://www.dropbox.com/sh/21nc5ec8xvzzdcy/AADtBg21bYKCwEh1IXxAugK7a?dl=0).   
 Please download the supplemental material [[pdf]](./paper/improving_color_accuracy_cvpr18_supp_v11.pdf)
 
